@@ -1,16 +1,104 @@
-## Hi there 👋
+# Hi there, I'm Kerolos Hanna 👋
 
-<!--
-**kirolos222/kirolos222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+I'm an **Analog and RF IC Design Engineer** with a passion for designing high-performance mixed-signal circuits. Currently working as a Teaching Assistant at Cairo University, I specialize in CMOS layout, analog circuit simulation, and RF building blocks including LNAs, mixers, and PLLs.
 
-Here are some ideas to get you started:
+- 🎓 B.Eng. in Communication & Electronics Engineering from Cairo University (GPA: 3.55)
+- 🔬 Currently exploring mmWave transceiver design and advanced analog techniques
+- 📍 Based in Cairo, Egypt
+- 📫 Reach me: kirohanna492@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+### IC Design & Simulation
+![Cadence](https://img.shields.io/badge/-Cadence_Virtuoso-red?style=flat-square)
+![SPICE](https://img.shields.io/badge/-SPICE-blue?style=flat-square)
+![ADS](https://img.shields.io/badge/-ADS-orange?style=flat-square)
+![CST](https://img.shields.io/badge/-CST-green?style=flat-square)
+
+### Programming Languages
+![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat-square&logo=mathworks)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Verilog](https://img.shields.io/badge/-Verilog-blue?style=flat-square)
+![VHDL](https://img.shields.io/badge/-VHDL-purple?style=flat-square)
+
+### Technologies
+- **Analog Design**: gm/ID methodology, OTA design, PSRR analysis, stability
+- **Layout**: CMOS fabrication, FinFET technology, parasitic reduction, ESD protection
+- **Modeling**: Verilog-A, SPICE modeling, short-channel effects
+- **RF/mmWave**: Power Amplifiers, LNAs, Mixers, PLLs
+
+## 🔥 Featured Projects
+
+### 📡 [mmWave Transceiver Design](link-to-project)
+**Technology**: GF22nm FD-SOI | **Frequency**: 76–81 GHz
+- Designed Power Amplifier (PA) with ±1 dBm output power accuracy across corners
+- Implemented variable gain amplifier (VGA) with precise dB-linear control
+- Developed on-chip interstage transformer and output balun for impedance matching
+- **Supervisor**: Dr. Faissal El Seddik
+
+### 🔄 [Gilbert Cell Mixer](link-to-project)
+High-frequency mixer design with excellent linearity and conversion gain
+- **Supervisor**: Dr. Mohamed Mobarak
+
+### 📶 [LNA for 10-15 GHz](link-to-project)
+Low-noise amplifier optimized for noise figure and gain
+- **Supervisor**: Dr. Mohamed Youssef
+
+### ⚡ [Fully-Differential Folded Cascode OTA](link-to-project)
+**Technology**: GF22nm FD-SOI
+- Slew rate enhancement techniques
+- High PSRR and excellent settling time
+
+### 🔒 [Phase-Locked Loop (PLL)](link-to-project)
+**Technology**: GF22nm FD-SOI
+- Complete PLL design with VCO, charge pump, and loop filter
+- Low jitter and fast lock time
+
+### 💻 [Pipelined MIPS Processor](link-to-project)
+**Language**: VHDL
+- 5-stage Harvard architecture
+- Hazard detection and forwarding units
+
+## 💼 Professional Experience
+
+**Teaching Assistant** | Cairo University | Sept 2025 – Present
+
+**AMS Simulation & Modeling** | Siemens | Jun 2024 – Sept 2024
+- SPICE simulation, Verilog-A modeling
+- PLL design and short-channel effects analysis
+
+**Analog to Digital Converter Design** | Siemens | Feb 2024 – Mar 2024
+- Switched-capacitor circuits, DACs, ADCs, comparators
+
+**Layout Design Internship** | Si-Vision | Sept 2023 – Jan 2024
+- CMOS layout, FinFET technology, parasitic reduction, ESD
+- **Supervisor**: Eng. Fady Atef
+
+**Analog IC Design** | ITI | Jun 2023 – Sept 2023
+- gm/ID method, OTA design, PSRR, stability analysis
+
+## 📊 GitHub Stats
+
+![Kerolos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+## 🌐 Languages
+- 🇪🇬 Arabic (Native)
+- 🇬🇧 English (Expert)
+- 🇫🇷 French (Expert)
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kirohanna492@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+
+## 💡 Soft Skills
+Team Player • Presentation Skills • Problem-Solving • Adaptability • Emotional Intelligence • Communication
+
+---
+
+⭐️ From [Kerolos Hanna](https://github.com/YOUR_GITHUB_USERNAME)
