@@ -79,12 +79,6 @@ Low-noise amplifier optimized for noise figure and gain
 **Analog IC Design** | ITI | Jun 2023 – Sept 2023
 - gm/ID method, OTA design, PSRR, stability analysis
 
-## 📊 GitHub Stats
-
-![Kerolos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
 ## 🌐 Languages
 - 🇪🇬 Arabic (Native)
 - 🇬🇧 English (Expert)
