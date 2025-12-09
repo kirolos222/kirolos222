@@ -38,20 +38,20 @@ I'm an **Analog and RF IC Design Engineer** with a passion for designing high-pe
 - Developed on-chip interstage transformer and output balun for impedance matching
 - **Supervisor**: Dr. Faissal El Seddik
 
-### 🔄 [Gilbert Cell Mixer](link-to-project)
+### 🔄 [Gilbert Cell Mixer](https://github.com/kirolos222/RF_IC/tree/main/Assignemnt-4)
 High-frequency mixer design with excellent linearity and conversion gain
 - **Supervisor**: Dr. Mohamed Mobarak
 
-### 📶 [LNA for 10-15 GHz](link-to-project)
+### 📶 [LNA for 10-15 GHz](https://github.com/kirolos222/RF_IC/tree/main/Week-5(LNA))
 Low-noise amplifier optimized for noise figure and gain
 - **Supervisor**: Dr. Mohamed Youssef
 
-### ⚡ [Fully-Differential Folded Cascode OTA](link-to-project)
+### ⚡ [Pseudo-Differential Folded Cascode OTA](https://github.com/kirolos222/multiple-stage-OTA-sub-1v-using-SRE-slew-rate-enhancement)
 **Technology**: GF22nm FD-SOI
 - Slew rate enhancement techniques
 - High PSRR and excellent settling time
 
-### 🔒 [Phase-Locked Loop (PLL)](link-to-project)
+### 🔒 [Phase-Locked Loop (PLL)](https://github.com/kirolos222/PLL-phase-locked-loop/tree/main/Project_to_make/PLL_circuit_design)
 **Technology**: GF22nm FD-SOI
 - Complete PLL design with VCO, charge pump, and loop filter
 - Low jitter and fast lock time
