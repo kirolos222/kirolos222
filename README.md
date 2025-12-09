@@ -56,7 +56,7 @@ Low-noise amplifier optimized for noise figure and gain
 - Complete PLL design with VCO, charge pump, and loop filter
 - Low jitter and fast lock time
 
-### 💻 [Pipelined MIPS Processor](link-to-project)
+### 💻 [Pipelined MIPS Processor](https://github.com/kirolos222/HarveredProcessor)
 **Language**: VHDL
 - 5-stage Harvard architecture
 - Hazard detection and forwarding units
