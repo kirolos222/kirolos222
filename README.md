@@ -31,7 +31,7 @@ I'm an **Analog and RF IC Design Engineer** with a passion for designing high-pe
 
 ## 🔥 Featured Projects
 
-### 📡 [mmWave Transceiver Design](link-to-project)
+### 📡 [mmWave Transceiver Design](https://github.com/kirolos222/graduation_project)
 **Technology**: GF22nm FD-SOI | **Frequency**: 76–81 GHz
 - Designed Power Amplifier (PA) with ±1 dBm output power accuracy across corners
 - Implemented variable gain amplifier (VGA) with precise dB-linear control
