@@ -41,7 +41,10 @@ I'm an **Analog and RF IC Design Engineer** with a passion for designing high-pe
 ### 🔄 [Gilbert Cell Mixer](https://github.com/kirolos222/RF_IC/tree/main/Assignemnt-4)
 High-frequency mixer design with excellent linearity and conversion gain
 - **Supervisor**: Dr. Mohamed Mobarak
+- 
+### 🔄 [Filter_optimizer using Ngspice and python and shell scripting](https://github.com/kirolos222/RF_IC/tree/main/Assignemnt-4)
 
+- 
 ### 📶 [LNA for 10-15 GHz](https://github.com/kirolos222/RF_IC/tree/main/Week-5(LNA))
 Low-noise amplifier optimized for noise figure and gain
 - **Supervisor**: Dr. Mohamed Youssef
