@@ -43,8 +43,8 @@ High-frequency mixer design with excellent linearity and conversion gain
 - **Supervisor**: Dr. Mohamed Mobarak
   
 ### 🔄 [Filter_optimizer using Ngspice and python and shell scripting]([https://github.com/kirolos222/RF_IC/tree/main/Assignemnt-4](https://github.com/kirolos222/Schell_scripting_training))
+- This project provides an automated toolchain to optimize a low-pass RC filter for high-frequency applications (targeting up to 80GHz). It bridges Python, Shell, and NGSpice to find the ideal component values while respecting physical layout constraints.
 
-- 
 ### 📶 [LNA for 10-15 GHz](https://github.com/kirolos222/RF_IC/tree/main/Week-5(LNA))
 Low-noise amplifier optimized for noise figure and gain
 - **Supervisor**: Dr. Mohamed Youssef
