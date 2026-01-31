@@ -4,7 +4,7 @@
 I'm an **Analog and RF IC Design Engineer** with a passion for designing high-performance mixed-signal circuits. Currently working as a Teaching Assistant at Cairo University, I specialize in CMOS layout, analog circuit simulation, and RF building blocks including LNAs, mixers, and PLLs.
 
 - 🎓 B.Eng. in Communication & Electronics Engineering from Cairo University (GPA: 3.55)
-- 🔬 Currently exploring mmWave transceiver design and advanced analog techniques
+- 🔬 Currently exploring mmWave transceiver design and advanced analog techniques and automation techniques 
 - 📍 Based in Cairo, Egypt
 - 📫 Reach me: kirohanna492@gmail.com
 
